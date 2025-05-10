@@ -1,0 +1,10 @@
+{
+  "/[id]/page": "app/[id]/page.js",
+  "/comments/page": "app/comments/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/new/page": "app/new/page.js",
+  "/page": "app/page.js",
+  "/past/page": "app/past/page.js",
+  "/submit/page": "app/submit/page.js"
+}
