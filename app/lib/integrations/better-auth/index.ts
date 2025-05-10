@@ -1,3 +1,7 @@
+
+
+
+
 import { nextCookies } from "better-auth/next-js";
 import { createAuthClient } from "better-auth/react";
 import { usernameClient } from "better-auth/client/plugins";
@@ -7,6 +11,5 @@ export const betterAuthClient = createAuthClient({
   baseURL:API_BASE,
   plugins: [nextCookies(), usernameClient()],
 });
-
 
 
