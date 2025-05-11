@@ -263,7 +263,7 @@ function PostPage() {
     const [totalPages, setTotalPages] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1);
     const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     const limit = 5;
-    const API_BASE = ("TURBOPACK compile-time value", "https://hackernews.ambitiouscliff-17e19e82.centralindia.azurecontainerapps.io");
+    const API_BASE = ("TURBOPACK compile-time value", "http://hackernews.ambitiouscliff-17e19e82.centralindia.azurecontainerapps.io");
     const fetchPosts = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useCallback"])({
         "PostPage.useCallback[fetchPosts]": async (pageNum)=>{
             setLoading(true);
