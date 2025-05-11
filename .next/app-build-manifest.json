@@ -21,6 +21,27 @@
       "static/chunks/_e69f0d32._.js",
       "static/chunks/_93808211._.js"
     ],
+    "/login/page": [
+      "static/chunks/node_modules_next_headers_7621aa88.js",
+      "static/chunks/node_modules_next_dist_c3a575e9._.js",
+      "static/chunks/node_modules_better-auth_dist_f1c6d9ca._.js",
+      "static/chunks/node_modules_better-call_dist_index_f51f713a.js",
+      "static/chunks/node_modules_zod_lib_index_mjs_ee760afb._.js",
+      "static/chunks/node_modules_jose_dist_browser_c98a78c6._.js",
+      "static/chunks/node_modules_c4f11bc8._.js",
+      "static/chunks/app_3c8a0531._.js",
+      "static/chunks/app_globals_73c37791.css",
+      "static/chunks/app_layout_tsx_c0237562._.js",
+      "static/chunks/_452a7da8._.js",
+      "static/chunks/app_login_page_tsx_72c93d0e._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
     "/page": [
       "static/chunks/node_modules_next_headers_7621aa88.js",
       "static/chunks/node_modules_next_dist_c3a575e9._.js",
